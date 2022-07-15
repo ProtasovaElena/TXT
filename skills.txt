@@ -1,0 +1,9 @@
+
+	1: Linux terminal (Git bash)
+	2: Postman
+        3: GitHub
+	4: CheckLists
+	5: Charles
+	6: SQL
+	7: Bag reports
+	8: Jmeter

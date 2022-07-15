@@ -1,0 +1,6 @@
+
+	favourite_film: The mirrow has two faces
+	favourite_series: Pride and Prejudice
+	favourite_food: Pizza
+	favourite_seaso: Summer
+	country_want_to_visit: Lithuania
