@@ -1,0 +1,5 @@
+name: Elena
+surname: Protasova
+age: 28
+number of pets: 0
+future salary: $1000
